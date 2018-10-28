@@ -2,13 +2,13 @@
   "name": "codejam-ilyat",
   "version": "1.0.0",
   "description": "codejam",
-  "main": "make.js",
+  "main": "src/make.js",
   "directories": {
     "test": "test"
   },
   "scripts": {
     "test": "mocha test/*.js",
-    "lint": "eslint *.js"
+    "lint": "eslint src/*.js"
   },
   "repository": {
     "type": "git",

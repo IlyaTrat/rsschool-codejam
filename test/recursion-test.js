@@ -1,5 +1,5 @@
 const assert = require('assert');
-const recursion = require('../recursion');
+const recursion = require('../src/recursion');
 
 describe('recursion', () => {
   it('test1', () => {

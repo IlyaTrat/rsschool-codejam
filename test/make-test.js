@@ -1,5 +1,5 @@
 const assert = require('assert');
-const make = require('../make');
+const make = require('../src/make');
 
 describe('make', () => {
   it('test1', () => {
